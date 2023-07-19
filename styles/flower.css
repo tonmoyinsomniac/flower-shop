@@ -37,7 +37,7 @@ header{
     margin-right: 150px;
 }
 
-.featured_flower{
+.bonus_section{
     margin-top: 150px;
 }
 
@@ -59,7 +59,8 @@ header{
     margin-left: 360px;
 }
 #img3{
-    margin-right: 20px;
+
+    margin-right: 80px;
 }
 
 .border{
@@ -78,13 +79,13 @@ header{
 }
 
 #b1{
-    background-color: rgba(167, 33, 98, 0.15);
+    background-color: #a7216226;
 }
 #b2{
-    background-color: rgba(5, 151, 160, 0.15);
+    background-color: #0597a026;
 }
 #b3{
-    background-color:rgba(71, 125, 17, 0.15);
+    background-color:#477d1126;
 }
 
 .flower_title{
@@ -101,7 +102,7 @@ header{
 .delivery_support{
     padding: 20px 40px 20px 40px;
     margin-top: 80px;
-    background-color: rgba(39, 39, 39, 0.05);
+    background-color: #2727270d;
     display: flex;
     border-radius: 5px;
 
@@ -117,7 +118,7 @@ header{
     margin-bottom: 100px;
     padding: 10px 70px;
     display: flex;
-    background-color: rgba(229, 84, 115, .1);
+    background-color: #e554731a;
     max-height: 60vh;
 }
 
@@ -142,7 +143,7 @@ header{
 .subscribe_my_channel{
     padding: 80px 0;
     max-height: 300px;
-    background-image: url("../Flower Asset/Rectangle 9.png");
+    background-image: url("../image/Rectangle\ 9.png");
     border-radius: 8px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -165,17 +166,3 @@ footer{
     color: #FFFFFF;
 }
 
-#fnt_change{
-    color: rgba(255, 255, 255, 0.7);
-    max-width: 450px;
-    margin-bottom: 20px;
-}
-
-#fnt_change2{
-    color: rgba(255, 255, 255, 0.40);
-    font-size: 11px;
-}
-
-#new_page{
-    cursor: pointer;
-}
